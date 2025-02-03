@@ -1,5 +1,5 @@
 """
-Author: Clement <<EMAIL>>
+Author: Clement
 License: MIT
 """
 
